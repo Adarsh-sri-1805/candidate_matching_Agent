@@ -1,4 +1,4 @@
-const Candidate = require("../models/Candidate");
+const Candidate = require("../models/candidate");
 
 const addCandidate = async (req, res) => {
     try {

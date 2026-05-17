@@ -1,5 +1,5 @@
 const Candidate =
-require("../models/Candidate");
+require("../models/candidate");
 
 const aiShortlist =
 require("../services/openrouterService");
